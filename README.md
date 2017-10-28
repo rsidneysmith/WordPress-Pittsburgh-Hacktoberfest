@@ -23,8 +23,8 @@ Please ensure you have completed the following before we begin. All of the tools
 1. Kevin Hoffman - [@kevinwhoffman](https://twitter.com/kevinwhoffman)
 2. Melinda Helt - [@melindahelt](https://twitter.com/melindahelt)
 3. Terry Rorison
-4.
-5.
+4. Ray Sidney-Smith - [@rsidneysmith](https://twitter.com/rsidneysmith)
+5. Lou Divers - [@loudivers](https://twitter.com/loudivers)
 6. Carolyn Asuncion - [@carolynasuncion](https://twitter.com/carolynasuncion)
 7.
 8.
