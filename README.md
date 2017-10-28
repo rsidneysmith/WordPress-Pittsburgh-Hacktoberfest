@@ -4,7 +4,7 @@ Welcome! This document serves as an event overview.
 
 ## Getting Started
 
-Please ensure you have completed the following before we begin.
+Please ensure you have completed the following before we begin. All of the tools below have versions available for Mac and PC.
 
 - [Create a GitHub Account](https://github.com/)
 - [Download Git](https://git-scm.com/)
