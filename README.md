@@ -47,6 +47,8 @@ Please ensure you have completed the following before we begin. All of the tools
     - [Git](https://git-scm.com/)
     - [GitHub](https://github.com/)
 - Intro to the GitHub interface.
+    - Commits, Issues, and Pull Requests
+    - What makes a good commit message?
     - Our first Pull Request in the browser.
 - MadLibs Challenge!
     - Review Criteria
