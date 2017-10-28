@@ -21,10 +21,10 @@ Please ensure you have completed the following before we begin. All of the tools
 ## Attendees
 
 1. Kevin Hoffman - [@kevinwhoffman](https://twitter.com/kevinwhoffman)
-2.
-3.
+2. Melinda Helt - [@melindahelt](https://twitter.com/melindahelt)
+3. Terry Rorison
 4. Ray Sidney-Smith - [@rsidneysmith](https://twitter.com/rsidneysmith)
-5.
+5. Lou Divers - [@loudivers](https://twitter.com/loudivers)
 6.
 7.
 8.
