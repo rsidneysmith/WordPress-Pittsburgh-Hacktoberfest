@@ -21,7 +21,7 @@ Please ensure you have completed the following before we begin. All of the tools
 ## Attendees
 
 1. Kevin Hoffman - [@kevinwhoffman](https://twitter.com/kevinwhoffman)
-2.
+2. Melinda Helt - [@melindahelt](https://twitter.com/melindahelt)
 3. Terry Rorison
 4.
 5.
