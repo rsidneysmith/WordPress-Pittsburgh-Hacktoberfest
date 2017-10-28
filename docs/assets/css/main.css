@@ -23,4 +23,11 @@ body {
 .container {
     margin: 0 auto;
     max-width: 60em;
+}}
+
+.card {
+    background: #fff;
+    color: black;
+    padding: 1.5rem;
 }
+
