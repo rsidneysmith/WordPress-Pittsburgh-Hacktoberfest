@@ -20,7 +20,7 @@ Please ensure you have completed the following before we begin. All of the tools
 
 ## Attendees
 
-1. [Kevin Hoffman](https://twitter.com/kevinwhoffman)
+1. Kevin Hoffman - [@kevinwhoffman](https://twitter.com/kevinwhoffman)
 2.
 3.
 4.
