@@ -23,7 +23,7 @@ Please ensure you have completed the following before we begin. All of the tools
 1. Kevin Hoffman - [@kevinwhoffman](https://twitter.com/kevinwhoffman)
 2.
 3.
-4.
+4. Ray Sidney-Smith - [@rsidneysmith](https://twitter.com/rsidneysmith)
 5.
 6.
 7.
