@@ -17,5 +17,10 @@ body {
 
 .band {
     background-color: rgba( 0, 0, 0, 0.15 );
-    min-height: 400px;
+    padding: 3rem 0;
+}
+
+.container {
+    margin: 0 auto;
+    max-width: 60em;
 }
