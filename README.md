@@ -12,11 +12,11 @@ Please ensure you have completed the following before we begin. All of the tools
 - [Download Desktop Server](https://serverpress.com/get-desktopserver/) (download DesktopServer Limited for free at bottom of page)
 - [Download Visual Studio Code](https://code.visualstudio.com/download) (unless you are perfectly happy with your own code editor)
 
-## Agenda
+## Schedule
 
-10:00 - 11:30 - Guided Walkthrough
-11:45 - 12:15 - Lunch
-12:15 - 2:00 - Git + WordPress/Open Hackathon
+- 10:00 - 11:30 - Guided Walkthrough
+- 11:45 - 12:15 - Lunch
+- 12:15 - 2:00 - Git + WordPress/Open Hackathon
 
 ## Attendees
 
@@ -37,7 +37,7 @@ Please ensure you have completed the following before we begin. All of the tools
 15.
 16.
 
-## Event Summary
+## Agenda
 
 - About WordPress Pittsburgh
 - What is [Open Source Software](https://en.wikipedia.org/wiki/Open-source_software)?
