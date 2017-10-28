@@ -50,7 +50,7 @@ Please ensure you have completed the following before we begin. All of the tools
     - Commits, Issues, and Pull Requests
     - What makes a [good commit message](https://chris.beams.io/posts/git-commit/)?
     - Our first Pull Request in the browser.
-- Mad Libs Challenge!
+- [Mad Libs Challenge](https://kevinwhoffman.github.io/WordPress-Pittsburgh-Hacktoberfest/)!
     - Review Criteria
     - Sketch
     - Wireframe
