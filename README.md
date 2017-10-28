@@ -25,8 +25,8 @@ Please ensure you have completed the following before we begin. All of the tools
 3. Terry Rorison
 4. Ray Sidney-Smith - [@rsidneysmith](https://twitter.com/rsidneysmith)
 5. Lou Divers - [@loudivers](https://twitter.com/loudivers)
-6.
-7.
+6. Carolyn Asuncion - [@carolynasuncion](https://twitter.com/carolynasuncion)
+7. Shashank Sabniveesu - [@svrsn_shashank](https://twitter.com/svrsn_shashank)
 8.
 9.
 10.
