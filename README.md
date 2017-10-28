@@ -26,7 +26,7 @@ Please ensure you have completed the following before we begin. All of the tools
 4.
 5.
 6.
-7.
+7. Shashank Sabniveesu - [@svrsn_shashank](https://twitter.com/svrsn_shashank)
 8.
 9.
 10.
