@@ -48,9 +48,9 @@ Please ensure you have completed the following before we begin. All of the tools
     - [GitHub](https://github.com/)
 - Intro to the GitHub interface.
     - Commits, Issues, and Pull Requests
-    - What makes a good commit message?
+    - What makes a [good commit message](https://chris.beams.io/posts/git-commit/)?
     - Our first Pull Request in the browser.
-- MadLibs Challenge!
+- Mad Libs Challenge!
     - Review Criteria
     - Sketch
     - Wireframe
