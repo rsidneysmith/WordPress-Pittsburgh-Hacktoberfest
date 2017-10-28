@@ -23,7 +23,7 @@ body {
 .container {
     margin: 0 auto;
     max-width: 60em;
-}}
+}
 
 .card {
     background: #fff;
@@ -31,3 +31,6 @@ body {
     padding: 1.5rem;
 }
 
+.madlib-placeholder {
+    background-color: yellow;
+}
